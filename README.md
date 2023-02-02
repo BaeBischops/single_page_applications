@@ -3,5 +3,5 @@ This repository contains all of the source code of assignments in Single Page We
 
 [Assignment_5](https://BaeBischops.github.io/single_page_applications/Single_Page_Applications/index.html)
 
-![Course Completion certificate](https://github.com/BaeBischops/single_page_applications/blob/master/certificate.png)
+![Course Completion certificate](https://github.com/BaeBischops/single_page_applications/blob/main/certificate.png)
 
